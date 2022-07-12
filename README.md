@@ -1,12 +1,12 @@
-# oktetov2ray
-# V2Ray Okteto
+# okteto 
+ 
 
 ## 注意本项目有封号的风险，不要用常用的github账号
 
 ## 概述
 
 ### 注册地址：https://okteto.com/
-本专案用于在 Okteto上部署 V2Ray WebSocket，
+本专案用于在 Okteto上部署 ocket，
 
 部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本
 
@@ -19,7 +19,7 @@
 
 ### 步骤
 
- 1. Fork 本专案到自己的 GitHub 账户（用户名以 `example` 为例）
+ 1.  专案到自己的 GitHub 账户（用户名以 `example` 为例）
  2. 如果有需要，修改UUID  在  `entrypoint.sh` 这个文件里修改
  3. 点击部署 ![image](https://user-images.githubusercontent.com/89477009/133904828-38ef592c-ece3-45e7-a85e-812af23b756a.png)
  4. 按要求链接后，找到本项目 ![image](https://user-images.githubusercontent.com/89477009/133905123-d40e3b72-49a5-46ca-9755-995f15dd49e5.png)  部署就行了
